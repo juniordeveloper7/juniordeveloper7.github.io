@@ -1,2 +1,2 @@
 # juniordeveloper7.github.io
-My site: **[https://juniordev.me](juniordev.me)**
+My site: **[juniordev.me](https://juniordev.me)**
