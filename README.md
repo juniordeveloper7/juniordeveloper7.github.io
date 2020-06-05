@@ -1,2 +1,2 @@
 # sk8team.github.io
-My site: **[sk8team](https://teensk8.github.io)**
+My site: **[sk8team](https://sk8team.github.io)**
